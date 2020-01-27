@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Name: nakijkscript.py
-Purpose: nakijken bioinfo 1 opgaven.
-Author: Jurre Hageman
+Purpose: nakijken bioinfo opgaven.
+Author: Jurre Hageman and Mark Sibbald
 Created: 2015-03-21
 Updated: 2020-01-27
 """
