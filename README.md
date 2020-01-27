@@ -19,12 +19,12 @@ NA
 
 Example:
 ```
-python3 main_nakijkscript.py infile.csv outfile.csv antwoorden.txt
+python3 nakijkscript.py infile.csv outfile.csv antwoorden.txt
 ```
 
 
 ### Arguments:
-usage: main_nakijkscript.py [-h] in_file, out_file, antwoord_file_
+usage: nakijkscript.py [-h] in_file, out_file, antwoord_file_
 Required arguments:
 - in_file: path to the Blackboard csv file
 - out_file: path to the output file
