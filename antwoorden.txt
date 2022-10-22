@@ -1,0 +1,25 @@
+All of the above
+Homo sapiens
+BRCA1
+349
+18
+coding sequence
+Deletion
+5627
+NM_001087847.1
+Circular
+aquaporin 1 (Colton blood group)
+CO, CHIP28, AQP-CHIP;CO,CHIP28,AQP-CHIP
+30911853..30925516
+GHRHR
+There are two isoforms known due to alternative splicing.
+4
+10373..10537
+2754
+2536
+184627696..184649447
+Template
+27
+NP_000483.3
+MGKVIGIDLG
+Bacterial DNA does not contain introns. Therefore, the genomic sequence of genes in bacteria corresponds to the mRNA-sequence.
