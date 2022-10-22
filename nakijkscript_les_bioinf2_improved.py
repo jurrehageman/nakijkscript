@@ -4,7 +4,7 @@ Name: nakijkscript.py
 Purpose: nakijken bioinfo opgaven.
 Author: Jurre Hageman and Mark Sibbald
 Created: 2015-03-21
-Updated: 2022-10-20
+Updated: 2022-10-22
 """
 
 #imports
